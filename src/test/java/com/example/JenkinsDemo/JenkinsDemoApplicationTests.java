@@ -12,7 +12,7 @@ class JenkinsDemoApplicationTests {
 
 	@Test
 	void contextLoads() {
-		logger.info("Test Executing ..... ");
+		logger.info("Test Executed ..... ");
 	}
 
 }
